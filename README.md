@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, RPA**
+- 💬 Ask me about **Python, Java, SQLite Database**
 
 - 📫 How to reach me **albert.jd.pydev@gmail.com**
 
